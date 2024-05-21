@@ -1,1 +1,1 @@
-Repositório pra entrega de desafios do Curso Devops Pro2.
+Repositório para entrega de desafios do Curso Devops Pro2.
